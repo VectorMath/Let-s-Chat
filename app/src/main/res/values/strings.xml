@@ -1,3 +1,24 @@
 <resources>
-    <string name="app_name">Let\'s Chat</string>
+    <string name="app_name">Lets Chat</string>
+
+    <!--Edit text-->
+    <string name="sign_up_username_hint">Enter your name</string>
+    <string name="sign_up_user_email_hint">Enter your email</string>
+    <string name="sign_up_user_password_hint">Enter your password</string>
+    <string name="sign_up_user_password_confirm_hint">Confirm your password</string>
+
+    <!--Button-->
+    <string name="sign_up_button_text">Sign Up</string>
+    <string name="sign_in_button_text">Sign In</string>
+
+    <!--TextView-->
+    <string name="tv_hint_sign_up">Already have an account?</string>
+    <string name="tv_link_to_sign_in">Sign In!</string>
+
+    <string name="tv_hint_sign_in">Do not have an account?</string>
+    <string name="tv_link_to_sign_up">Sign Up!</string>
+
+    <string name="sign_up_title">Register page</string>
+    <string name="sign_in_title">Login page</string>
+
 </resources>

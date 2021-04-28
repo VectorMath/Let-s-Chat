@@ -7,4 +7,12 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--Custom colors-->
+    <!--TextView-->
+    <color name="main_text_color">#232323</color>
+    <color name="tv_link_color">#72A3BA</color>
+
+    <!--Button-->
+    <color name="button_color">#72A3BA</color>
 </resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "874933547535",
+    "project_id": "let-s-talk-ca478",
+    "storage_bucket": "let-s-talk-ca478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874933547535:android:5ad3fe3854b3ede539297a",
+        "android_client_info": {
+          "package_name": "com.eugenebaturov.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874933547535-9ffmofveltt5ju7291ruvbo7qu88alp7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxb9I2gTuJbVv_f5smNkwtmhJwHs8mq1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874933547535-9ffmofveltt5ju7291ruvbo7qu88alp7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
